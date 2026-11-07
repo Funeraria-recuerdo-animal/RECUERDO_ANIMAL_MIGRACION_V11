@@ -1,0 +1,2 @@
+import {precioServicio} from './pricing';
+describe('Cálculo del servicio original',()=>{it('calcula Silver en Región Metropolitana',()=>{expect(precioServicio('Silver','0-1','Region Metropolitana')).toBe(55000)});it('suma recargos Gold y zona',()=>{expect(precioServicio('Gold','1-5','Zona 2')).toBe(110000)});it('rechaza selección incompleta',()=>{expect(precioServicio('Silver','','Zona 1')).toBe(0)})});

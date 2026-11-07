@@ -1,0 +1,190 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Ánfora Arcoíris tamaño L",
+      "categoria": "Ánfora",
+      "precio": 104500,
+      "imagenUrl": "/images/anfora-arcoiris.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Ánfora Arcoíris tamaño M",
+      "categoria": "Ánfora",
+      "precio": 87500,
+      "imagenUrl": "/images/anfora-arcoiris.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Ánfora Arcoíris tamaño S",
+      "categoria": "Ánfora",
+      "precio": 67500,
+      "imagenUrl": "/images/anfora-arcoiris.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Ánfora Corazón Plata XS",
+      "categoria": "Ánfora",
+      "precio": 49900,
+      "imagenUrl": "/images/corazon-plata.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Ánfora Gatito color Blanco",
+      "categoria": "Ánfora",
+      "precio": 87500,
+      "imagenUrl": "/images/anfora-gatito-blanco.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Ánfora Gatito color Blanco Mini",
+      "categoria": "Ánfora",
+      "precio": 57500,
+      "imagenUrl": "/images/anfora-gatito-blanco.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Ánfora Gatito color Burdeo",
+      "categoria": "Ánfora",
+      "precio": 87500,
+      "imagenUrl": "/images/anfora-gatito-burdeo.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Ánfora Gatito color Negro",
+      "categoria": "Ánfora",
+      "precio": 87500,
+      "imagenUrl": "/images/g2010-negro-600x600.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Ánfora Gatito color Negro Mini",
+      "categoria": "Ánfora",
+      "precio": 57500,
+      "imagenUrl": "/images/g2010-negro-600x600.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Ánfora Huellas Bronce Color Blanco tamaño XS",
+      "categoria": "Ánfora",
+      "precio": 30000,
+      "imagenUrl": "/images/una-blanca.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Ánfora Huellas Bronce Color Marfil tamaño M",
+      "categoria": "Ánfora",
+      "precio": 63600,
+      "imagenUrl": "/images/una-blanca.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Ánfora Huellas Bronce Color Marfil tamaño S",
+      "categoria": "Ánfora",
+      "precio": 53600,
+      "imagenUrl": "/images/una-blanca.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Ánfora Odisea Huellas color Rojo L",
+      "categoria": "Ánfora",
+      "precio": 74100,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.04.04-e1685672157748-300x300.jpeg"
+    },
+    {
+      "id": 14,
+      "nombre": "Ánfora Odisea Huellas color Rojo M",
+      "categoria": "Ánfora",
+      "precio": 61900,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.04.04-e1685672157748-300x300.jpeg"
+    },
+    {
+      "id": 15,
+      "nombre": "Ánfora Odisea Huellas color Rojo S",
+      "categoria": "Ánfora",
+      "precio": 51900,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.04.04-e1685672157748-300x300.jpeg"
+    },
+    {
+      "id": 16,
+      "nombre": "Urna Huella de Madera Pequeña",
+      "categoria": "Urna",
+      "precio": 39990,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.01.58-300x300.jpeg"
+    },
+    {
+      "id": 17,
+      "nombre": "Urna Huella de Madera Mediana",
+      "categoria": "Urna",
+      "precio": 54990,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.01.58-300x300.jpeg"
+    },
+    {
+      "id": 18,
+      "nombre": "Urna Recuerdo de Madera Grande",
+      "categoria": "Urna",
+      "precio": 69990,
+      "imagenUrl": "/images/WhatsApp-Image-2023-06-01-at-22.01.58-300x300.jpeg"
+    },
+    {
+      "id": 19,
+      "nombre": "Arreglo Floral Pequeño",
+      "categoria": "Arreglo Floral",
+      "precio": 24990,
+      "imagenUrl": "/images/flores.jpeg"
+    },
+    {
+      "id": 20,
+      "nombre": "Arreglo Floral Mediano",
+      "categoria": "Arreglo Floral",
+      "precio": 34990,
+      "imagenUrl": "/images/flores.jpeg"
+    },
+    {
+      "id": 21,
+      "nombre": "Arreglo Floral Grande",
+      "categoria": "Arreglo Floral",
+      "precio": 44990,
+      "imagenUrl": "/images/flores.jpeg"
+    },
+    {
+      "id": 22,
+      "nombre": "Foto Pequeña 10 x 15 cm",
+      "categoria": "Fotografía",
+      "precio": 7999,
+      "imagenUrl": "/images/foto-recuerdo.jpeg"
+    },
+    {
+      "id": 23,
+      "nombre": "Foto Mediana 15 x 20 cm",
+      "categoria": "Fotografía",
+      "precio": 11990,
+      "imagenUrl": "/images/foto-recuerdo.jpeg"
+    },
+    {
+      "id": 24,
+      "nombre": "Foto Grande 20 x 30 cm",
+      "categoria": "Fotografía",
+      "precio": 17990,
+      "imagenUrl": "/images/foto-recuerdo.jpeg"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Ánfora"
+    },
+    {
+      "id": 2,
+      "nombre": "Urna"
+    },
+    {
+      "id": 3,
+      "nombre": "Arreglo Floral"
+    },
+    {
+      "id": 4,
+      "nombre": "Fotografía"
+    }
+  ]
+}
